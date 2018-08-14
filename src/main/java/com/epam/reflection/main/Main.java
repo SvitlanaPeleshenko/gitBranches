@@ -33,5 +33,6 @@ public class Main {
         exampleField.setAccessible(accessible);
 
         forProxy.invokeExampleMethod();
+        System.out.println("Commit2");
     }
 }
